@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ravêl Samal</title>
+    <link>http://www.ravelsamal.com/blogs/</link>
+    <description>Recent content in Blogs on Ravêl Samal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 22:53:26 -0400</lastBuildDate>
+    <atom:link href="http://www.ravelsamal.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog One</title>
+      <link>http://www.ravelsamal.com/blogs/blog-one/</link>
+      <pubDate>Tue, 24 Sep 2024 22:53:26 -0400</pubDate>
+      <guid>http://www.ravelsamal.com/blogs/blog-one/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;A blog website that enables public to create accounts and post content. It uses&#xA;MongoDB and Node.js for back-end and HTML, CSS (TailwindCSS) and JavaScript&#xA;(SvelteKit) for fron-tend. It also utilises REST API and JWT (for&#xA;authorisation).&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Home page&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/blog-one-home.png&#34; alt=&#34;Screenshot homepage&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Login&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/blog-login.png&#34; alt=&#34;Screenshot login page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Register&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/blog-reg.png&#34; alt=&#34;Screenshot register page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Create blog&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/new-blog.png&#34; alt=&#34;Screenshot new blog page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blog page&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/blog-view.png&#34; alt=&#34;Screenshot view blog page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>2torial</title>
+      <link>http://www.ravelsamal.com/blogs/2torial/</link>
+      <pubDate>Tue, 24 Sep 2024 20:48:49 -0400</pubDate>
+      <guid>http://www.ravelsamal.com/blogs/2torial/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;A video-streaming website where the admin uploads videos (tutorials). It uses&#xA;Go, Docker, PostgreSQL, nginx and FFmpeg for backend and HTML, CSS (TailwindCSS)&#xA;and JavaScript for fron-tend. It also leverages microservice architecture, AWS&#xA;S3 (for storage) and AWS SQS (as a message queue).&lt;/p&gt;&#xA;&lt;h2 id=&#34;architecture&#34;&gt;Architecture&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.ravelsamal.com/images/2-arch.svg&#34; alt=&#34;Architecture of the application&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Home page&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/home.png&#34; alt=&#34;Screenshot of the homepage&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Login&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/login.png&#34; alt=&#34;Screenshot of the login page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Register&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/reg.png&#34; alt=&#34;Screenshot of the registration page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/vidup.png&#34; alt=&#34;Screenshot of the homepage&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tutorial page&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/setup.png&#34; alt=&#34;Screenshot of the video upload page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;6&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Video player&lt;/strong&gt;&#xA;&lt;img src=&#34;http://www.ravelsamal.com/images/setup_mid.png&#34; alt=&#34;Screenshot of the video upload page&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
