@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ravêl Samal</title>
+    <link>https://ravelsamal.com/blogs/</link>
+    <description>Recent content in Blogs on Ravêl Samal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 May 2025 23:38:30 -0400</lastBuildDate>
+    <atom:link href="https://ravelsamal.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Davinci</title>
+      <link>https://ravelsamal.com/blogs/davinci/</link>
+      <pubDate>Sat, 31 May 2025 23:38:30 -0400</pubDate>
+      <guid>https://ravelsamal.com/blogs/davinci/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;A simple issue tracking web application for software development. It leverages&#xA;PostgreSQL and Python&amp;rsquo;s FastAPI for back-end and HTML, CSS (TailwindCSS), Shadcn&#xA;UI and JavaScript (SvelteKit) for front-end. It also utilises REST API and JWT&#xA;(for authorisation) and WebSockets for real-time communication.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Secure authentication/authorisation using JWT (JSON Web Token)&lt;/li&gt;&#xA;&lt;li&gt;Real-time notification system using WebSocket protocol&lt;/li&gt;&#xA;&lt;li&gt;Role-based access to resources&lt;/li&gt;&#xA;&lt;li&gt;Limited resources fetching per request ensuring efficient querying&lt;/li&gt;&#xA;&lt;li&gt;Token invalidation ensuring stolen token can&amp;rsquo;t be used after their&#xA;invalidation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dashboard&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/davinci/davinci-dashboard.png&#34; alt=&#34;Screenshot dashboard&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog One</title>
+      <link>https://ravelsamal.com/blogs/blog-one/</link>
+      <pubDate>Tue, 24 Sep 2024 22:53:26 -0400</pubDate>
+      <guid>https://ravelsamal.com/blogs/blog-one/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;A blog website that enables public to create accounts and post content. It uses&#xA;MongoDB and Node.js for back-end and HTML, CSS (TailwindCSS) and JavaScript&#xA;(SvelteKit) for front-end. It also utilises REST API and JWT (for&#xA;authorisation).&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Home page&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/blog-one/blog-one-home.png&#34; alt=&#34;Screenshot homepage&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Login&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/blog-one/blog-login.png&#34; alt=&#34;Screenshot login page&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Register&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/blog-one/blog-reg.png&#34; alt=&#34;Screenshot register page&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Create blog&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/blog-one/new-blog.png&#34; alt=&#34;Screenshot new blog page&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blog page&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/blog-one/blog-view.png&#34; alt=&#34;Screenshot view blog page&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2torial</title>
+      <link>https://ravelsamal.com/blogs/2torial/</link>
+      <pubDate>Tue, 24 Sep 2024 20:48:49 -0400</pubDate>
+      <guid>https://ravelsamal.com/blogs/2torial/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;A video-streaming website where the admin uploads videos (tutorials). It uses&#xA;Go, Docker, PostgreSQL, nginx and FFmpeg for backend and HTML, CSS (TailwindCSS)&#xA;and JavaScript for front-end. It also leverages microservice architecture, AWS&#xA;S3 (for storage) and AWS SQS (as a message queue).&lt;/p&gt;&#xA;&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Home page&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/2torial/home.png&#34; alt=&#34;Screenshot of the homepage&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Login&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/2torial/login.png&#34; alt=&#34;Screenshot of the login page&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Register&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/2torial/reg.png&#34; alt=&#34;Screenshot of the registration page&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/2torial/vidup.png&#34; alt=&#34;Screenshot of the homepage&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol start=&#34;5&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tutorial page&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ravelsamal.com/images/2torial/setup.png&#34; alt=&#34;Screenshot of the video upload page&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
